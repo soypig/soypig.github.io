@@ -7,7 +7,7 @@ body {
   margin: 0 auto 0 auto;
   height: 100%;
   width: 40%;
-  background: url(soypig-logo-white.svg);
+  background: url(../images/soypig-logo-white.svg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center center;
